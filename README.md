@@ -12,6 +12,7 @@
 - ❤️ 2021-2023: Créateur, Fondateur et Developper de 2 serveurs communautaires FiveM à plus de 150 joueurs constant (RiconRP & UmrellaRP)
 - 💻 2023-2023: Création d'une entreprise d'hebergement (Cloud)
 - 🌐 2023-2025 : Etudiant en alternance (BTS SIO SISR) à l'esiee-it, avec pour entrprise le Conseil Départemental Du Val D'Oise 
+- 🌐 2025-2026 : Etudiant en alternance à l'ensitech, avec pour entrprise Denv-R
 
 <p>  
 <!-- GitHub Stats -->  
