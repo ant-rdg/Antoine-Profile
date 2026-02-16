@@ -3,9 +3,7 @@
 <!-- welcome message -->  
 <h2>Bienvenue sur mon profil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
-[![Tweeter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Extasy0093)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatih-cakici-73744b250/)
-[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@antoinerodrigues.com)
+[![X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Extasy0093)
 
 ### Mon parcours:
 - 🎓 2020-2023: 3 Ans en Bac Pro Système numérique à l'AFORP avec pour entrprise le Conseil Départemental Du Val D'Oise
