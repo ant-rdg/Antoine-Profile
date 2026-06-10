@@ -1,13 +1,11 @@
 <!-- welcome message -->  
 <h2>Bienvenue sur mon profil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
-[![X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Extasy0093)
-
 ### Mon parcours:
-- 🎓 2020-2023: 3 Ans en Bac Pro Système numérique à l'AFORP avec pour entrprise le Conseil Départemental Du Val D'Oise
+- 🎓 2020-2023: 3 Ans en Bac Pro Système numérique à l'AFORP avec pour entreprise le Conseil Départemental Du Val D'Oise
 - ❤️ 2021-2023: Créateur, Fondateur et Developper de 2 serveurs communautaires FiveM à plus de 150 joueurs constant (RiconRP & UmrellaRP)
 - 💻 2023-2023: Création d'une entreprise d'hebergement (Cloud)
-- 🌐 2023-2025 : Etudiant en alternance (BTS SIO SISR) à l'esiee-it, avec pour entrprise le Conseil Départemental Du Val D'Oise 
+- 🌐 2023-2025 : Etudiant en alternance (BTS SIO SISR) à l'Esiee-IT, avec pour entrprise le Conseil Départemental Du Val D'Oise 
 - 🌐 2025-2026 : Etudiant en alternance à l'ensitech, avec pour entrprise Denv-R
 
 <h3 align="left">Languages et outils que j'utilise:</h3>
